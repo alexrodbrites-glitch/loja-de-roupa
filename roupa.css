@@ -190,24 +190,6 @@ nav {
   cursor: default; 
 }
 
-.dropdown {
-  position: relative;
-  display: inline-block;
-}
-
-.dropdown-content {
-  display: none;
-  position: absolute;
-  left: 0;
-  top: 100%;
-  background: #fff;
-  min-width: 180px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.13);
-  z-index: 10;
-  border-radius: 6px;
-  padding: 8px 0;
-}
-
 .dropdown-content strong {
   display: block;
   font-size: 1.3em;
